@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jake Kurczek
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Neuroscience and Psychology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Loras College
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Memory
+- Language
 - Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Neuroscience
+    institution: University of Iowa
+    year: 2014
+  - course: BA in Psychology
+    institution: St. Olaf College
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +41,28 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:jake.kurczek@loras.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/engagedbrain
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: http://scholar.google.com/citations?user=Hd0_CEAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/engagedbrain
+  icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Jake_Kurczek/
+    icon: twitch
+  icon_pack: fab
+  link: https://www.twitch.tv/engagedbrain
+    icon: orcid
+  icon_pack: fab
+  link: http://orcid.org/0000-0002-5965-2498
+    icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Jake_Kurczek/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +79,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jake Kurczek is currently an assistant professor of neuroscience and psychology, at Loras College in Dubuque, IA. He obtained his doctorate degree in neuroscience from the University of Iowa in Iowa City, IA in 2014. After graduating from the University of Iowa, Jake completed a one-year post-doctoral fellowship at York University in Toronto, ON, Canada and then worked as a visiting assistant professor at Haverford College in Haverford, PA for one year. In 2016, he started his current position, as an assistant professor. Since joining Loras, he has worked at the ground level to build the systematic integration of civic-engagement into every fabric of the Loras experience.
