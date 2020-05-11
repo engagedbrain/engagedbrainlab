@@ -18,12 +18,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: We study the interactions between language and memory within social contexts. Our goals are to understand how these cognitive processes interact with one another in order to develop interventions in language to help support and improve memory and social-interaction..
 
 interests:
 - Memory
 - Language
-- Information Retrieval
+- Social Cognition
+- Education/Pedagogy
+- Civic Engagement
 
 education:
   courses:
