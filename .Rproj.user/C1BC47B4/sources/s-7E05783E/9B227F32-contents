@@ -93,7 +93,7 @@ address = {street = "1450 Alta Vista St", city = "Dubuque", region = "IA", postc
 coordinates = {latitude = "42.504611", longitude = "-90.681942"}
 
 # Directions for visitors to locate you.
-directions = {icon = "directions", icon_pack = "fas", name = "Take a left off the stairs on the 3rd floor of Hennessy Hall, 362"}
+directions = "Take a left off the stairs on the 3rd floor of Hennessy Hall, 362"
 
 
 # Office hours
