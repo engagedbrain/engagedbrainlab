@@ -77,8 +77,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigators
 ---
 
 Jake Kurczek is currently an assistant professor of neuroscience and psychology, at Loras College in Dubuque, IA. He obtained his doctorate degree in neuroscience from the University of Iowa in Iowa City, IA in 2014. After graduating from the University of Iowa, Jake completed a one-year post-doctoral fellowship at York University in Toronto, ON, Canada and then worked as a visiting assistant professor at Haverford College in Haverford, PA for one year. In 2016, he started his current position, as an assistant professor. Since joining Loras, he has worked at the ground level to build the systematic integration of civic-engagement into every fabric of the Loras experience.
