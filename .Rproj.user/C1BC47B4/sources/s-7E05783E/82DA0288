@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589213886713.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3894720728",
+    "id" : "82DA0288",
+    "lastKnownWriteTime" : 1589062444,
+    "last_content_update" : 1589062444,
+    "path" : "C:/Users/jakek/Google Drive/College Teaching/Jake Kurczek Website/engagedbrainlab/netlify.toml",
+    "project_path" : "netlify.toml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

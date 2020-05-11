@@ -53,16 +53,16 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/engagedbrain
-  icon: researchgate
+- icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Jake_Kurczek/
-    icon: twitch
+- icon: twitch
   icon_pack: fab
   link: https://www.twitch.tv/engagedbrain
-    icon: orcid
+- icon: orcid
   icon_pack: fab
   link: http://orcid.org/0000-0002-5965-2498
-    icon: researchgate
+- icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Jake_Kurczek/
 # Link to a PDF of your resume/CV from the About widget.
