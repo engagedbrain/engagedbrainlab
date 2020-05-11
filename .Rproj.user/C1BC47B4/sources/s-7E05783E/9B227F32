@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589231398575.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2823615115",
+    "id" : "9B227F32",
+    "lastKnownWriteTime" : 1589231687,
+    "last_content_update" : 1589231687993,
+    "path" : "C:/Users/jakek/Google Drive/College Teaching/Jake Kurczek Website/engagedbrainlab/config/_default/params.toml",
+    "project_path" : "config/_default/params.toml",
+    "properties" : {
+        "cursorPosition" : "95,51",
+        "scrollLine" : "74"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
